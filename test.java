@@ -3,7 +3,5 @@ public class Test {
         System.out.println(" do");
         System.out.println("re");
         System.out.println("mi");
-        
-
     }
 }
